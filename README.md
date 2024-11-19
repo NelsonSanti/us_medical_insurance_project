@@ -31,3 +31,8 @@ The analysis resulted in the following findings:
 - the _median insurance cost value_ for each sex is:
   - `male`: 9369.62
   - `female`: 9412.96
+
+## Technologies used
+
+ - Jupyter Notebook
+ - Python programming language
